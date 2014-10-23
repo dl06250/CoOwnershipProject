@@ -1,7 +1,7 @@
 package com.fontOrme.bean;
 
 public class Proprios {
-	private long id=0;
+	private long id;
 	private String nom="";
 	private String prenom="";
 	
