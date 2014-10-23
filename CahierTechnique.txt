@@ -8,3 +8,8 @@ Deux fichiers Excel principaux (duppliqué dans chaque dossier "année") sont ut
 		recettes. Dans ce fichier les dépenses sont détaillées par postes.
 	- Un fichier "Copropriétaires" dans lequel nous saisissons les charges dûes par les copropriétaires
 		ainsi que les sommes versées par ces derniers.
+
+Le projet doit gérer :
+	Les lots (Appartements et villas)
+	Les copropriétaires
+	Les intervenants externes
