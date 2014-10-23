@@ -1,2 +1,10 @@
 Actuellement, pour gérer la copropriété nous utilisons des tableaux Excel.
 Afin de faciliter la saisie comptable, j'ai souhaité créé ce projet en Java.
+
+Etude de l'existant :
+Nous avons un dossier par année civile.
+Deux fichiers Excel principaux (duppliqué dans chaque dossier "année") sont utilisés :
+	- Un fichier "Compte en banque" dans lequel nous saisissons l'ensemble des dépenses et des
+		recettes. Dans ce fichier les dépenses sont détaillées par postes.
+	- Un fichier "Copropriétaires" dans lequel nous saisissons les charges dûes par les copropriétaires
+		ainsi que les sommes versées par ces derniers.
