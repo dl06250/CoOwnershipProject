@@ -1,0 +1,2 @@
+Actuellement, pour gérer la copropriété nous utilisons des tableaux Excel.
+Afin de faciliter la saisie comptable, j'ai souhaité créé ce projet en Java.
