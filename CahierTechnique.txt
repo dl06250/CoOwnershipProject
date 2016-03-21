@@ -1,5 +1,5 @@
 Actuellement, pour gérer la copropriété nous utilisons des tableaux Excel.
-Afin de faciliter la saisie comptable, j'ai souhaité créé ce projet en Java.
+Afin de faciliter la saisie comptable, j'ai souhaité créer ce projet en Java.
 
 Etude de l'existant :
 Nous avons un dossier par année civile.
